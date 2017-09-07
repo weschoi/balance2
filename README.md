@@ -1,13 +1,6 @@
-# Project Name
+# Balance
 
-The project description
-
-## Team
-
-- teamMember
-- teamMember
-- teamMember
-- teamMember
+Balance Your Life
 
 ## Roadmap
 
